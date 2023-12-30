@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">Currently learning CP and MERN stack :)</h3>
+<h3 align="center">Currently learning MERN stack :)</h3>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/harshit-singhh/harshit-singhh/main/banner.gif"> </div>
-
-- 🌱 I’m currently learning **Competitive programming**
 
 - 💬 Ask me about **DSA , MERN stack**
 
